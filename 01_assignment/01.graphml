@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <key attr.name="betweenness" attr.type="double" for="node" id="v_betweenness"/>
+    <key attr.name="Computed Z-Level" attr.type="int" for="node" id="isometric_z_value"/>
+    <graph edgedefault="undirected">
+        <node id="n0">
+            <data key="label">n0</data>
+            <data key="v_betweenness">231.071428571429</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">35.0</data>
+            <data key="r">4</data>
+            <data key="g">90</data>
+            <data key="b">141</data>
+            <data key="x">50.486942</data>
+            <data key="y">-18.9228</data>
+        </node>
+        <node id="n1">
+            <data key="label">n1</data>
+            <data key="v_betweenness">28.4785714285714</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">8.697372</data>
+            <data key="r">210</data>
+            <data key="g">220</data>
+            <data key="b">236</data>
+            <data key="x">-47.730114</data>
+            <data key="y">-25.076681</data>
+        </node>
+        <node id="n2">
+            <data key="label">n2</data>
+            <data key="v_betweenness">75.8507936507937</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">14.847707</data>
+            <data key="r">158</data>
+            <data key="g">192</data>
+            <data key="b">220</data>
+            <data key="x">-28.777357</data>
+            <data key="y">-45.5946</data>
+        </node>
+        <node id="n3">
+            <data key="label">n3</data>
+            <data key="v_betweenness">6.28809523809524</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.8163834</data>
+            <data key="r">234</data>
+            <data key="g">234</data>
+            <data key="b">243</data>
+            <data key="x">-53.22176</data>
+            <data key="y">-8.628336</data>
+        </node>
+        <node id="n4">
+            <data key="label">n4</data>
+            <data key="v_betweenness">0.333333333333333</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.043277</data>
+            <data key="r">240</data>
+            <data key="g">237</data>
+            <data key="b">245</data>
+            <data key="x">-38.01533</data>
+            <data key="y">38.233997</data>
+        </node>
+        <node id="n5">
+            <data key="label">n5</data>
+            <data key="v_betweenness">15.8333333333333</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">7.055641</data>
+            <data key="r">223</data>
+            <data key="g">228</data>
+            <data key="b">240</data>
+            <data key="x">-46.81705</data>
+            <data key="y">26.742619</data>
+        </node>
+        <node id="n6">
+            <data key="label">n6</data>
+            <data key="v_betweenness">15.8333333333333</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">7.055641</data>
+            <data key="r">223</data>
+            <data key="g">228</data>
+            <data key="b">240</data>
+            <data key="x">-61.52083</data>
+            <data key="y">35.141644</data>
+        </node>
+        <node id="n7">
+            <data key="label">n7</data>
+            <data key="v_betweenness">0.0</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0</data>
+            <data key="r">241</data>
+            <data key="g">238</data>
+            <data key="b">246</data>
+            <data key="x">-74.08266</data>
+            <data key="y">42.317154</data>
+        </node>
+        <node id="n8">
+            <data key="label">n8</data>
+            <data key="v_betweenness">29.5293650793651</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">8.833797</data>
+            <data key="r">209</data>
+            <data key="g">220</data>
+            <data key="b">236</data>
+            <data key="x">-53.18134</data>
+            <data key="y">8.874059</data>
+        </node>
+        <node id="n9">
+            <data key="label">n9</data>
+            <data key="v_betweenness">0.447619047619048</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0581145</data>
+            <data key="r">240</data>
+            <data key="g">237</data>
+            <data key="b">245</data>
+            <data key="x">-28.534996</data>
+            <data key="y">45.74667</data>
+        </node>
+        <node id="n10">
+            <data key="label">n10</data>
+            <data key="v_betweenness">0.333333333333333</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.043277</data>
+            <data key="r">240</data>
+            <data key="g">237</data>
+            <data key="b">245</data>
+            <data key="x">-46.549473</data>
+            <data key="y">46.81723</data>
+        </node>
+        <node id="n11">
+            <data key="label">n11</data>
+            <data key="v_betweenness">0.0</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0</data>
+            <data key="r">241</data>
+            <data key="g">238</data>
+            <data key="b">246</data>
+            <data key="x">-17.667494</data>
+            <data key="y">50.939804</data>
+        </node>
+        <node id="n12">
+            <data key="label">n12</data>
+            <data key="v_betweenness">0.0</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0</data>
+            <data key="r">241</data>
+            <data key="g">238</data>
+            <data key="b">246</data>
+            <data key="x">-34.922817</data>
+            <data key="y">55.987484</data>
+        </node>
+        <node id="n13">
+            <data key="label">n13</data>
+            <data key="v_betweenness">24.215873015873</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">8.143947</data>
+            <data key="r">214</data>
+            <data key="g">223</data>
+            <data key="b">237</data>
+            <data key="x">-73.27679</data>
+            <data key="y">12.227269</data>
+        </node>
+        <node id="n14">
+            <data key="label">n14</data>
+            <data key="v_betweenness">0.0</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0</data>
+            <data key="r">241</data>
+            <data key="g">238</data>
+            <data key="b">246</data>
+            <data key="x">-41.27373</data>
+            <data key="y">66.16913</data>
+        </node>
+        <node id="n15">
+            <data key="label">n15</data>
+            <data key="v_betweenness">0.0</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0</data>
+            <data key="r">241</data>
+            <data key="g">238</data>
+            <data key="b">246</data>
+            <data key="x">-47.624645</data>
+            <data key="y">76.35078</data>
+        </node>
+        <node id="n16">
+            <data key="label">n16</data>
+            <data key="v_betweenness">0.0</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0</data>
+            <data key="r">241</data>
+            <data key="g">238</data>
+            <data key="b">246</data>
+            <data key="x">-53.97556</data>
+            <data key="y">86.53242</data>
+        </node>
+        <node id="n17">
+            <data key="label">n17</data>
+            <data key="v_betweenness">0.0</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0</data>
+            <data key="r">241</data>
+            <data key="g">238</data>
+            <data key="b">246</data>
+            <data key="x">-60.326473</data>
+            <data key="y">96.714066</data>
+        </node>
+        <node id="n18">
+            <data key="label">n18</data>
+            <data key="v_betweenness">0.0</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0</data>
+            <data key="r">241</data>
+            <data key="g">238</data>
+            <data key="b">246</data>
+            <data key="x">-66.67739</data>
+            <data key="y">106.895706</data>
+        </node>
+        <node id="n19">
+            <data key="label">n19</data>
+            <data key="v_betweenness">17.1468253968254</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">7.2261724</data>
+            <data key="r">222</data>
+            <data key="g">227</data>
+            <data key="b">240</data>
+            <data key="x">-56.93055</data>
+            <data key="y">57.25802</data>
+        </node>
+        <node id="n20">
+            <data key="label">n20</data>
+            <data key="v_betweenness">0.0</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0</data>
+            <data key="r">241</data>
+            <data key="g">238</data>
+            <data key="b">246</data>
+            <data key="x">-73.028305</data>
+            <data key="y">117.077354</data>
+        </node>
+        <node id="n21">
+            <data key="label">n21</data>
+            <data key="v_betweenness">0.0</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0</data>
+            <data key="r">241</data>
+            <data key="g">238</data>
+            <data key="b">246</data>
+            <data key="x">-79.37922</data>
+            <data key="y">127.258995</data>
+        </node>
+        <node id="n22">
+            <data key="label">n22</data>
+            <data key="v_betweenness">0.0</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0</data>
+            <data key="r">241</data>
+            <data key="g">238</data>
+            <data key="b">246</data>
+            <data key="x">-85.73013</data>
+            <data key="y">137.44064</data>
+        </node>
+        <node id="n23">
+            <data key="label">n23</data>
+            <data key="v_betweenness">9.3</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">6.207419</data>
+            <data key="r">230</data>
+            <data key="g">232</data>
+            <data key="b">242</data>
+            <data key="x">-90.263565</data>
+            <data key="y">15.061753</data>
+        </node>
+        <node id="n24">
+            <data key="label">n24</data>
+            <data key="v_betweenness">1.16666666666667</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.1514683</data>
+            <data key="r">239</data>
+            <data key="g">237</data>
+            <data key="b">245</data>
+            <data key="x">-67.40316</data>
+            <data key="y">67.79087</data>
+        </node>
+        <node id="n25">
+            <data key="label">n25</data>
+            <data key="v_betweenness">2.02777777777778</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.2632666</data>
+            <data key="r">238</data>
+            <data key="g">236</data>
+            <data key="b">245</data>
+            <data key="x">-76.21498</data>
+            <data key="y">76.65337</data>
+        </node>
+        <node id="n26">
+            <data key="label">n26</data>
+            <data key="v_betweenness">0.0</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0</data>
+            <data key="r">241</data>
+            <data key="g">238</data>
+            <data key="b">246</data>
+            <data key="x">-92.08105</data>
+            <data key="y">147.62228</data>
+        </node>
+        <node id="n27">
+            <data key="label">n27</data>
+            <data key="v_betweenness">11.7920634920635</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">6.5309634</data>
+            <data key="r">228</data>
+            <data key="g">230</data>
+            <data key="b">242</data>
+            <data key="x">-86.09777</data>
+            <data key="y">49.180374</data>
+        </node>
+        <node id="n28">
+            <data key="label">n28</data>
+            <data key="v_betweenness">0.947619047619048</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.123029</data>
+            <data key="r">239</data>
+            <data key="g">237</data>
+            <data key="b">245</data>
+            <data key="x">-85.00273</data>
+            <data key="y">85.49168</data>
+        </node>
+        <node id="n29">
+            <data key="label">n29</data>
+            <data key="v_betweenness">1.54285714285714</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.2003093</data>
+            <data key="r">239</data>
+            <data key="g">237</data>
+            <data key="b">245</data>
+            <data key="x">-98.32161</data>
+            <data key="y">56.16282</data>
+        </node>
+        <node id="n30">
+            <data key="label">n30</data>
+            <data key="v_betweenness">7.60952380952381</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.9879446</data>
+            <data key="r">232</data>
+            <data key="g">233</data>
+            <data key="b">243</data>
+            <data key="x">-109.97963</data>
+            <data key="y">62.82206</data>
+        </node>
+        <node id="n31">
+            <data key="label">n31</data>
+            <data key="v_betweenness">73.0095238095238</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">14.478825</data>
+            <data key="r">162</data>
+            <data key="g">194</data>
+            <data key="b">221</data>
+            <data key="x">-77.26213</data>
+            <data key="y">-12.525773</data>
+        </node>
+        <node id="n32">
+            <data key="label">n32</data>
+            <data key="v_betweenness">76.6904761904762</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">14.956724</data>
+            <data key="r">158</data>
+            <data key="g">192</data>
+            <data key="b">220</data>
+            <data key="x">5.4003882</data>
+            <data key="y">-53.6455</data>
+        </node>
+        <node id="n33">
+            <data key="label">n33</data>
+            <data key="v_betweenness">160.551587301587</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">25.84441</data>
+            <data key="r">72</data>
+            <data key="g">138</data>
+            <data key="b">181</data>
+            <data key="x">29.331163</data>
+            <data key="y">45.240322</data>
+        </node>
+        <node id="n34">
+            <data key="label">n34</data>
+            <data key="v_betweenness">0.0</data>
+            <data key="isometric_z_value">0</data>
+            <data key="size">5.0</data>
+            <data key="r">241</data>
+            <data key="g">238</data>
+            <data key="b">246</data>
+            <data key="x">-5.9876237</data>
+            <data key="y">53.583134</data>
+        </node>
+        <edge id="0" source="n0" target="n1">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1" source="n0" target="n2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2" source="n0" target="n3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="3" source="n0" target="n4">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="4" source="n0" target="n5">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="5" source="n0" target="n6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="6" source="n0" target="n7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="7" source="n0" target="n8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="8" source="n0" target="n10">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="9" source="n0" target="n11">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10" source="n0" target="n12">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="11" source="n0" target="n13">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="12" source="n0" target="n17">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="13" source="n0" target="n19">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="14" source="n0" target="n21">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="15" source="n0" target="n31">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="16" source="n1" target="n2">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="17" source="n1" target="n3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="18" source="n1" target="n7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="19" source="n1" target="n13">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="20" source="n1" target="n17">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="21" source="n1" target="n19">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="22" source="n1" target="n21">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="23" source="n1" target="n30">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="24" source="n2" target="n3">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="25" source="n2" target="n7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="26" source="n2" target="n8">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="27" source="n2" target="n9">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="28" source="n2" target="n13">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="29" source="n2" target="n27">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="30" source="n2" target="n28">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="31" source="n2" target="n32">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="32" source="n3" target="n7">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="33" source="n3" target="n12">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="34" source="n3" target="n13">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="35" source="n4" target="n6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="36" source="n4" target="n10">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="37" source="n5" target="n6">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="38" source="n5" target="n10">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="39" source="n5" target="n16">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="40" source="n6" target="n16">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="41" source="n8" target="n30">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="42" source="n8" target="n32">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="43" source="n8" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="44" source="n9" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="45" source="n13" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="46" source="n19" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="47" source="n22" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="48" source="n23" target="n25">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="49" source="n23" target="n29">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="50" source="n24" target="n25">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="51" source="n23" target="n27">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="52" source="n24" target="n27">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="53" source="n27" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="54" source="n28" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="55" source="n26" target="n29">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="56" source="n30" target="n32">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="57" source="n30" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="58" source="n24" target="n31">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="59" source="n25" target="n31">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="60" source="n28" target="n31">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="61" source="n31" target="n32">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="62" source="n31" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="63" source="n14" target="n32">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="64" source="n15" target="n32">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="65" source="n18" target="n32">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="66" source="n20" target="n32">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="67" source="n22" target="n32">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="68" source="n23" target="n32">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="69" source="n29" target="n32">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="70" source="n32" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="71" source="n14" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="72" source="n15" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="73" source="n18" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="74" source="n20" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="75" source="n23" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="76" source="n26" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="77" source="n29" target="n33">
+            <data key="weight">1.0</data>
+        </edge>
+    </graph>
+</graphml>
